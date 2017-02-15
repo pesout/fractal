@@ -10,15 +10,19 @@ var canvas = document.getElementById("myCanvas");
 canvas.width = window.innerWidth; //The canvas uses the whole browser window
 canvas.height = window.innerHeight;
 
-//Center
+
+//Center of the page
 var x = Math.round(window.innerWidth/2); 
 var y = Math.round(window.innerHeight/2);
+
 
 var a = x;
 var b = y;
 
+
 var sx = x*2;
 var sy = y*2;
+
 
 function draw() {
 	
