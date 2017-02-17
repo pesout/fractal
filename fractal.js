@@ -37,6 +37,7 @@ function draw() {
 	{
 		x = x - 1;
 	}
+	
 	else
 	{
 		if (x < sx) 
