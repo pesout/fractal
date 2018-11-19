@@ -9,11 +9,3 @@
 
 [Check out how it works.](http://rawgit.com/pesout/fractal/master/fractal.html)
 
-It's possible to run this yourself (e.g. in an `iframe`) by copying this syntax to your HTML file:
-
-```html
-<canvas id="myCanvas" style=" position:absolute; left:0px; top:0px;">
-	There's no support for canvas. 
-</canvas>
-<script src="http://rawgit.com/pesout/fractal/master/fractal.js"></script>
-```
